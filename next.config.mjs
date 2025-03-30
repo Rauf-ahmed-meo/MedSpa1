@@ -22,7 +22,7 @@ const nextConfig = {
     parallelServerCompiles: true,
   },
   output: 'export', // Added to enable static export
-  basePath: '/your-repo-name', // Replace with your GitHub repo name
+  basePath: 'MedSpa1', // Replace with your GitHub repo name
 };
 
 mergeConfig(nextConfig, userConfig);
